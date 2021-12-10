@@ -1,0 +1,7 @@
+{
+    "name": "ReadINI",
+    "desc": "ReadINI is a reader/writer for INI Files.",
+    "version": "Beta",
+    "license": "MIT",
+    "created": "10/12/2021"
+}
